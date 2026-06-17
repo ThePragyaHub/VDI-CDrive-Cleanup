@@ -1,2 +1,2 @@
 # VDI-CDrive-Cleanup
-PowerShell script to clear C drive space in VDI
+PowerShell script to clear C drive space in Citrix VDI
